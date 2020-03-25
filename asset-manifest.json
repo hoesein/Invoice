@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Invoice/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Invoice/static/js/main.6fb726da.chunk.js",
+    "main.js.map": "/Invoice/static/js/main.6fb726da.chunk.js.map",
+    "runtime-main.js": "/Invoice/static/js/runtime-main.ac9ab794.js",
+    "runtime-main.js.map": "/Invoice/static/js/runtime-main.ac9ab794.js.map",
+    "static/js/2.59ee6a5e.chunk.js": "/Invoice/static/js/2.59ee6a5e.chunk.js",
+    "static/js/2.59ee6a5e.chunk.js.map": "/Invoice/static/js/2.59ee6a5e.chunk.js.map",
+    "index.html": "/Invoice/index.html",
+    "precache-manifest.2783004ea1f07624389837681601f5cc.js": "/Invoice/precache-manifest.2783004ea1f07624389837681601f5cc.js",
+    "service-worker.js": "/Invoice/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Invoice/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.59ee6a5e.chunk.js.LICENSE.txt": "/Invoice/static/js/2.59ee6a5e.chunk.js.LICENSE.txt",
+    "static/media/cherry_charity.jpg": "/Invoice/static/media/cherry_charity.be9b17e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac9ab794.js",
+    "static/js/2.59ee6a5e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6fb726da.chunk.js"
+  ]
+}
